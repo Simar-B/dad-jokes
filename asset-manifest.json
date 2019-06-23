@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Simar-B/dad-jokes/static/css/main.a5a9332f.chunk.css",
-    "main.js": "/Simar-B/dad-jokes/static/js/main.ed6b9ec9.chunk.js",
-    "main.js.map": "/Simar-B/dad-jokes/static/js/main.ed6b9ec9.chunk.js.map",
-    "runtime~main.js": "/Simar-B/dad-jokes/static/js/runtime~main.ae1509b3.js",
-    "runtime~main.js.map": "/Simar-B/dad-jokes/static/js/runtime~main.ae1509b3.js.map",
-    "static/js/2.47ea020e.chunk.js": "/Simar-B/dad-jokes/static/js/2.47ea020e.chunk.js",
-    "static/js/2.47ea020e.chunk.js.map": "/Simar-B/dad-jokes/static/js/2.47ea020e.chunk.js.map",
-    "index.html": "/Simar-B/dad-jokes/index.html",
-    "precache-manifest.33dc29ffc74bc0eedfb82d1bbfdcff40.js": "/Simar-B/dad-jokes/precache-manifest.33dc29ffc74bc0eedfb82d1bbfdcff40.js",
-    "service-worker.js": "/Simar-B/dad-jokes/service-worker.js",
-    "static/css/main.a5a9332f.chunk.css.map": "/Simar-B/dad-jokes/static/css/main.a5a9332f.chunk.css.map",
-    "static/media/App.css": "/Simar-B/dad-jokes/static/media/jokeBackground.8a9a78d4.jpg"
+    "main.css": "/dad-jokes/static/css/main.3f585e99.chunk.css",
+    "main.js": "/dad-jokes/static/js/main.9238ebcb.chunk.js",
+    "main.js.map": "/dad-jokes/static/js/main.9238ebcb.chunk.js.map",
+    "runtime~main.js": "/dad-jokes/static/js/runtime~main.c81b4217.js",
+    "runtime~main.js.map": "/dad-jokes/static/js/runtime~main.c81b4217.js.map",
+    "static/js/2.47ea020e.chunk.js": "/dad-jokes/static/js/2.47ea020e.chunk.js",
+    "static/js/2.47ea020e.chunk.js.map": "/dad-jokes/static/js/2.47ea020e.chunk.js.map",
+    "index.html": "/dad-jokes/index.html",
+    "precache-manifest.6a0fd6247b969b9fa66e2b1d3304104d.js": "/dad-jokes/precache-manifest.6a0fd6247b969b9fa66e2b1d3304104d.js",
+    "service-worker.js": "/dad-jokes/service-worker.js",
+    "static/css/main.3f585e99.chunk.css.map": "/dad-jokes/static/css/main.3f585e99.chunk.css.map",
+    "static/media/App.css": "/dad-jokes/static/media/jokeBackground.8a9a78d4.jpg"
   }
 }
