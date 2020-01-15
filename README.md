@@ -1,3 +1,8 @@
+This is a web page made with react. The app tells dad jokes when you click the button "So you wanna hear a joke?". The app retrieves jokes from https://icanhazdadjoke.com/
+
+The jokes are pretty funny if I do say so myself.
+________________________________________________________________________________________________________________________________________
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
